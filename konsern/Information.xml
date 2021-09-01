@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Information>
+  <Group Title="Ny versjon (2018.1)" Version="&gt;=2018.1">
+    <Item Title="Skattesatser for 2018 er oppdatert. " Version="2018.1" />
+    <Item Title="Rettelse av feilsummering i konserntablå" Version="2017.1">Utfordringen ved feilsummering av elimineringer pr. regnskapslinje og derav feil totalsum i konsernet ser nå ut til å være løst.</Item>
+    <Item Title="Korrekt resultat under Elimineringer i modul vs konserntablå" Version="2017.1">Ved koblinger til flere ekstra regnskapslinjer under linjestyring, har blant annet driftsresultatet under elimineringer i modul blitt feil. Vi har nå rettet summeringen av ekstralinjer slik at årsresultatet nå skal stemme med årsresultatet i konserntablå.</Item>
+    <Item Title="Summering annen egenkapital i modul" Version="2017.1">Udekket tap og utbytte (IFRS) kommer nå med i annen egenkapital under avstemming egenkapital og i sammendrag balanse under elimineringer.</Item>
+  </Group>
+  <Group Title="Versjon (2016.1)" Version="2016.1">
+    <Item Title="Integrasjon mot Byrå">Denne versjonen inneholder integrasjon mot Byrå.</Item>
+    <Item Title="Andre endringer inkluderer bl. a.:">På siden for konsolidering av noter og kontantstrømoppstillinger er det nå mulig å endre visning fra kroner til tusen kroner og millioner kroner.&#10;&#10;Diverse endringer på utskriftene, f. eks. egen utskrift av konsoliderte noter og kontantstrømoppstillinger.</Item>
+  </Group>
+  <Group Title="Oppdatering tilgjengelig (2016.1)" Version="&lt;2016.1">
+    <Item Title="Ny versjon 2016.1 tilgjengelig">Det er lagt ut en oppdatering av programmet. Den inneholder integrasjon mot Byrå, og endel andre viktige oppdateringer.&#10;Vi anbefaler at du oppdaterer til denne versjonen for å få med deg disse forbedringene.</Item>
+  </Group>
+</Information>
