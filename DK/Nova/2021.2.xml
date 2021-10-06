@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Information>
+  <Group Title="Skat Nova 2021.2 test">
+    <Item Title="To forskelle på beregning i Skat Nova 2020 og årsopgørelserne fra Skatteforvaltningen (06.07.2021)"
+    	  Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNova20206Diff.pdf">
+		  Vi er stødt på to forskelle, som vi hermed vil orientere jer om.&#10;&#10;
+		  Den ene drejer sig om tillæg til befordringsfradrag, når man har fået udbetalt indefrosne feriemidler. Der er forskel på den indkomstafhængige reduktion af tillægget. Vi har en fejl i Skat Nova.&#10;&#10;
+		  Den anden drejer sig om situationer, hvor der er både fremført negativ aktieskat fra tidligere indkomstår, og der hæves overskud i virksomhedsordningen, som er opsparet i tidligere indkomstår. Der er forskel på hvor meget negativ aktieskat, der udnyttes i indeværende indkomstår, og hvor meget der fremføres. Sagen er uafklaret.
+    </Item>
+  </Group>
+</Information>
