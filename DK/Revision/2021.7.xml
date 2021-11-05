@@ -4,7 +4,7 @@
 	       Version="2021.7" Type="Error">
 		<Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.2A.pdf"
 		      Title="Text WITH read more and version"
-		      Version="2021.X">Bla1 bla1 bla1
+		      Version="2021.X" Type="Error">Bla1 bla1 bla1
 		</Item>
 		<Item Title="Text WITHOUT" Icon="Error">Bla2 bla2 bla2</Item>
 		<Item Title="Text WITHOUT" Icon="Warning">Bla3 bla3 bla3</Item>
