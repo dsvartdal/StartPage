@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <Information LastUpdate="2021-08-10T08:09:49">
 	<Group Title="Revision 2022.1 (obs. still internal version 2021.7) - FRA GITHUB"
-	       Version="2021.7">
+	       Version="2021.7" Icon="Error">
 		<Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.2A.pdf"
 		      Title="Text WITH read more and version"
 		      Version="2021.X">Bla1 bla1 bla1
