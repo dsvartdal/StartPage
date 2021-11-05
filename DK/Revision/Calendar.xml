@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Id="0" Title="Revision 2020.2" Date="2021-01-12">Der er kommer en ny version af Wolters Kluwer Revision.</CalendarEntry>
-  <CalendarEntry Id="0" Title="Revision 2021.1" Date="2021-02-11">Der er kommet en ny version af Wolters Kluwer Revision med opdaterede arbejdspapirer mv for kompensationsordningerne for faste omkostninger og større arrangementer.</CalendarEntry>
-  <CalendarEntry Id="0" Title="Revision 2021.1B" Date="2021-04-22">Der er kommet en ny version af Wolters Kluwer Revision med arbejdspapir til Slutafregning - omsætning</CalendarEntry>
-  <CalendarEntry Id="0" Title="Revision 2021.2A" Date="2021-07-26">Der er kommet en ny version af Wolters Kluwer Revision.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Revision 2020.2 - FRA GITHUB" Date="2021-01-12">Der er kommer en ny version af Wolters Kluwer Revision.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Revision 2021.1 - FRA GITHUB" Date="2021-02-11">Der er kommet en ny version af Wolters Kluwer Revision med opdaterede arbejdspapirer mv for kompensationsordningerne for faste omkostninger og større arrangementer.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Revision 2021.1B - FRA GITHUB" Date="2021-04-22">Der er kommet en ny version af Wolters Kluwer Revision med arbejdspapir til Slutafregning - omsætning</CalendarEntry>
+  <CalendarEntry Id="0" Title="Revision 2021.2A - FRA GITHUB" Date="2021-07-26">Der er kommet en ny version af Wolters Kluwer Revision.</CalendarEntry>
 </Calendar>
