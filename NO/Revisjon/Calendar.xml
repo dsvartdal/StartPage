@@ -224,10 +224,10 @@ Utsatt fra 15. mai til 15. august 2020</CalendarEntry>
   <CalendarEntry Id="0" Title="A-melding for november" Date="2021-12-06" />
   <CalendarEntry Id="0" Title="Mva-melding" Date="2021-12-10">Frist for levering og betaling</CalendarEntry>
   <CalendarEntry Id="0" Title="Merverdiavgift, kompensasjonsmelding" Date="2021-12-10">Frist for levering skattemelding for merverdiavgiftskompensasjon, 5. termin</CalendarEntry>
-  <CalendarEntry Id="0" Title="Forskuddsskatt for deltaker i selskap med deltakerfastsetting (SDF)" Date="2021-12-15">Frist for betaling</CalendarEntry>
-  <CalendarEntry Id="0" Title="Forskuddsskatt for personlig næringsdrivende og privatpersoner" Date="2021-12-15">Frist for betaling</CalendarEntry>
-  <CalendarEntry Id="0" Title="Skattekort" Date="2021-12-15">utsending av informasjon om ditt skattekort starter</CalendarEntry>
+  <CalendarEntry Id="0" Title="FRA GITHUB NOR - Forskuddsskatt for deltaker i selskap med deltakerfastsetting (SDF)" Date="2021-12-15">Frist for betaling</CalendarEntry>
+  <CalendarEntry Id="0" Title="Forskuddsskatt for personlig næringsdrivende og privatpersoner" Date="2021-12-15">Frist for betaling2</CalendarEntry>
+  <CalendarEntry Id="0" Title="FRA GITHUB NOR - Skattekort" Date="2021-12-15">utsending av informasjon om ditt skattekort starter</CalendarEntry>
   <CalendarEntry Id="0" Title="Særavgiftsmelding" Date="2021-12-20">Leveringsfrist (unntatt NOx og elektrisk kraft og TFA)</CalendarEntry>
-  <CalendarEntry Id="0" Title="Land-for-land-rapportering - FRA GITHUB NOR" Date="2021-12-15">Frist for å levere melding om flernasjonale konserns fordeling av inntekt, skatt m.v</CalendarEntry>
-  <CalendarEntry Id="0" Title="A-melding for desember - FRA GITHUB NOR" Date="2022-01-05" />
+  <CalendarEntry Id="0" Title="FRA GITHUB NOR - Land-for-land-rapportering" Date="2021-12-15">Frist for å levere melding om flernasjonale konserns fordeling av inntekt, skatt m.v</CalendarEntry>
+  <CalendarEntry Id="0" Title="A-melding for desember" Date="2022-01-05" />
 </Calendar>
