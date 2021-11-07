@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Id="0" Title="Aksjesparekonto - FRA GITHUB NOR" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
-  <CalendarEntry Id="0" Title="Boligsameier - FRA GITHUB NOR" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
+  <CalendarEntry Id="0" Title="Aksjesparekonto" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
+  <CalendarEntry Id="0" Title="Boligsameier" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Boligsparing for ungdom (BSU)" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Fagforeningskontigent" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Fondskonto" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
@@ -228,6 +228,6 @@ Utsatt fra 15. mai til 15. august 2020</CalendarEntry>
   <CalendarEntry Id="0" Title="Forskuddsskatt for personlig næringsdrivende og privatpersoner" Date="2021-12-15">Frist for betaling</CalendarEntry>
   <CalendarEntry Id="0" Title="Skattekort" Date="2021-12-15">utsending av informasjon om ditt skattekort starter</CalendarEntry>
   <CalendarEntry Id="0" Title="Særavgiftsmelding" Date="2021-12-20">Leveringsfrist (unntatt NOx og elektrisk kraft og TFA)</CalendarEntry>
-  <CalendarEntry Id="0" Title="Land-for-land-rapportering" Date="2021-12-15">Frist for å levere melding om flernasjonale konserns fordeling av inntekt, skatt m.v</CalendarEntry>
-  <CalendarEntry Id="0" Title="A-melding for desember" Date="2022-01-05" />
+  <CalendarEntry Id="0" Title="Land-for-land-rapportering - FRA GITHUB NOR" Date="2021-12-15">Frist for å levere melding om flernasjonale konserns fordeling av inntekt, skatt m.v</CalendarEntry>
+  <CalendarEntry Id="0" Title="A-melding for desember - FRA GITHUB NOR" Date="2022-01-05" />
 </Calendar>
