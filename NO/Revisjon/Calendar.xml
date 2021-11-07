@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Id="0" Title="Aksjesparekonto" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
-  <CalendarEntry Id="0" Title="Boligsameier" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
+  <CalendarEntry Id="0" Title="Aksjesparekonto - FRA GITHUB NOR" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
+  <CalendarEntry Id="0" Title="Boligsameier - FRA GITHUB NOR" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Boligsparing for ungdom (BSU)" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Fagforeningskontigent" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
   <CalendarEntry Id="0" Title="Fondskonto" Date="2020-03-01">Frist for å korrigere feil i innsendte tredjepartsopplysninger</CalendarEntry>
@@ -37,7 +37,7 @@ Upersonlige skattepliktige som aksjeselskaper, verdipapirfond og banker skal bet
   <CalendarEntry Id="0" Title="Særavgiftsmelding - leveringsfrist (unntatt elektrisk kraft)" Date="2020-04-18" />
   <CalendarEntry Id="0" Title="Mva-melding for elektroniske tjenester (VOES) " Date="2020-04-20">Frist for levering og betaling</CalendarEntry>
   <CalendarEntry Id="0" Title="Aksjeoppgaven - frist for levering av oppgave" Date="2020-04-30" />
-  <CalendarEntry Id="0" Title="Skattemelding (selvangivelsen) " Date="2020-04-30">For selskap som omfattes av petroleumsskatteloven § 1
+  <CalendarEntry Id="0" Title="Skattemelding (selvangivelsen) " Date="2020-04-30">For selskap som omfattes av petroleumsskatteloven Â§ 1
 Frist for levering</CalendarEntry>
   <CalendarEntry Id="0" Title="Skattemelding - frist for å endre og levere" Date="2020-04-30">Skattemelding (selvangivelsen) for formues- og inntektsskatt - lønnstakere og pensjonister</CalendarEntry>
   <CalendarEntry Id="0" Title="Skattemelding - frist for å søke om utsatt leveringsfrist" Date="2020-04-30">Skattemelding (selvangivelsen) for formue- og inntektsskatt - lønnstakere og pensjonister</CalendarEntry>
@@ -97,7 +97,7 @@ Utsatt fra 15. mai til 15. august 2020</CalendarEntry>
   <CalendarEntry Id="0" Title="Forskuddsskatt for personlig næringsdrivende " Date="2020-11-16">Frist for betaling</CalendarEntry>
   <CalendarEntry Id="0" Title="Oppgjørsliste for utleggstrekk" Date="2020-11-16">Frist for levering og betaling</CalendarEntry>
   <CalendarEntry Id="0" Title="Særavgiftsmelding" Date="2020-11-18">Leveringsfrist (untatt NOx)</CalendarEntry>
-  <CalendarEntry Id="0" Title="Årlig mva-melding - frist for å søke om 2-månedlig termin" Date="2020-12-01">Hvis du ønsker å gå tilbake til å betale annenhver måned, må du søke skattekontoret</CalendarEntry>
+  <CalendarEntry Id="0" Title="Ã…rlig mva-melding - frist for å søke om 2-månedlig termin" Date="2020-12-01">Hvis du ønsker å gå tilbake til å betale annenhver måned, må du søke skattekontoret</CalendarEntry>
   <CalendarEntry Id="0" Title="A-melding for november" Date="2020-12-07" />
   <CalendarEntry Id="0" Title="Merverdiavgift, kompensasjonsmelding" Date="2020-12-10">Frist for levering av skattemelding for merverdiavgifteskompensasjon, 5. termin</CalendarEntry>
   <CalendarEntry Id="0" Title="Mva-melding" Date="2020-12-10">Frist for levering og betaling</CalendarEntry>
@@ -182,7 +182,7 @@ Utsatt fra 15. mai til 15. august 2020</CalendarEntry>
   <CalendarEntry Id="0" Title="Aksjeoppgaven" Date="2021-04-30">Frist for levering av oppgave</CalendarEntry>
   <CalendarEntry Id="0" Title="Skattemelding" Date="2021-04-30">Frist for å søke om utsatt leveringsfrist for lønnstakere og pensjonister</CalendarEntry>
   <CalendarEntry Id="0" Title="Skattemelding" Date="2021-04-30">Frist for å endre og levere for lønnstakere og pensjonister</CalendarEntry>
-  <CalendarEntry Id="0" Title="Skattemelding (selvangivelsen) for selskap som omfattes av petroleumsskatteloven § 1" Date="2021-04-30">Frist for levering</CalendarEntry>
+  <CalendarEntry Id="0" Title="Skattemelding (selvangivelsen) for selskap som omfattes av petroleumsskatteloven Â§ 1" Date="2021-04-30">Frist for levering</CalendarEntry>
   <CalendarEntry Id="0" Title="A-melding for april" Date="2021-05-05" />
   <CalendarEntry Id="0" Title="Mva-melding for omvendt avgiftsplikt (særskilt mva-melding)" Date="2021-05-10">Frist for rapportering for 1. kvartal</CalendarEntry>
   <CalendarEntry Id="0" Title="A-meldingen (arbeidsgiveravgift, finansskatt, skattetrekk og utleggstrekk" Date="2021-05-18">Frist for betaling</CalendarEntry>
