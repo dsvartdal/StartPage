@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Calendar>
+  <CalendarEntry Id="0" Title="Programkurs" Date="2016-10-18">Revision, programintroduktion för revisorer, heldag Göteborg</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs" Date="2016-12-07">Revision, programintroduktion för revisorer, heldag Stockholm</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs" Date="2017-01-18">Revision, programintroduktion för revisorer, heldag Göteborg</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs" Date="2017-02-15">Revision, programintroduktion för revisorer, heldag Stockholm</CalendarEntry>
+  <CalendarEntry Id="0" Title="ISA i praktiken - med Kristian Thore (Stockholm)" Date="2017-09-28">Kursen är en kombinationskurs och innehåller växelvis genomgångar av de mest väsentliga delarna av ISA i kombination med inslag av en praktisk genomgång av hur du använder revisionsprogrammet.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Göteborg)" Date="2017-10-11">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2017-11-14">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="ISA i praktiken - med Kristian Thore (Göteborg)" Date="2017-12-12">Kursen är en kombinationskurs och innehåller växelvis genomgångar av de mest väsentliga delarna av ISA i kombination med inslag av en praktisk genomgång av hur du använder revisionsprogrammet.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Göteborg)" Date="2018-01-10">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2018-02-16">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2018-11-13">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Göteborg)" Date="2018-12-11">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2019-01-10">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Göteborg)" Date="2019-01-17">Revision, programintroduktion för revisorer</CalendarEntry>
+  <CalendarEntry Id="0" Title="Kurs - Kontrollbalansräkning (webbkurs)" Date="2019-03-19">Vi går igenom regelverket kring kapitalbrist, vilka dokument som måste upprättas och ger exempel på olika rättsfall. 
+Vänder sig till dig som är redovisningskonsult, revisor, ekonomiansvarig, styrelseledamot eller ekonomisk rådgivare.
+Läs mer och anmäl dig på www.wolterskluwer.se
+Välj Utbildningar &amp; event och Seminarier.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Kurs - Kontrollbalansräkning (webbkurs)" Date="2019-04-17">Vi går igenom regelverket kring kapitalbrist, vilka dokument som måste upprättas och ger exempel på olika rättsfall. 
+Vänder sig till dig som är redovisningskonsult, revisor, ekonomiansvarig, styrelseledamot eller ekonomisk rådgivare.
+Läs mer och anmäl dig på www.wolterskluwer.se
+Välj Utbildningar &amp; event och Seminarier.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2019-11-13">Grundkurs i revisionsprogrammet, heldag</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2020-01-14">Grundkurs i revisionsprogrammet, del 1, kl 13-16</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2020-01-15">Grundkurs i revisionsprogrammet, del 2, kl 9-12</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2020-11-18">Grundkurs i revisionsprogrammet, del 1, kl 13-16.30</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2020-11-19">Grundkurs i revisionsprogrammet, del 2, kl 9-12</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2021-01-21">Grundkurs i revisionsprogrammet, del 1, kl 13-17</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webbkurs)" Date="2021-01-22">Grundkurs i revisionsprogrammet, del 2, kl 9-12</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webb)" Date="2021-10-19">Grundkurs i revisionsprogrammet:
+19/10: del 1, kl 13-17
+20/10: del 2, kl 9-12</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (Stockholm)" Date="2021-11-25">FRA GITHUB SWE - Grundkurs i revisionsprogrammet, heldag</CalendarEntry>
+  <CalendarEntry Id="0" Title="Nytt &amp; nyttigt i revisionsprogrammet" Date="2021-12-01">Kl 10:00-10:30</CalendarEntry>
+  <CalendarEntry Id="0" Title="Programkurs (webb)" Date="2022-01-12">FRA GITHUB SWE - Grundkurs i revisionsprogrammet:
+12/1: del 1, kl 13-17
+13/1: del 2, kl 9-12</CalendarEntry>
+</Calendar>

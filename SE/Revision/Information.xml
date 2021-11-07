@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Information>
+  <Group Title="Version 2021.2.1 med stöd för omställningsstöd juli-sept 2021 (2021-07-12)" Version="&lt;=2021.6">
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20216/Nyheter Revision.pdf" Title="Version med stöd för granskning av ansökan omst.stöd juli-september 2021" Version="&lt;=2021.6">Nytt i denna version är stöd för granskning av ansökan om omställningsstöd på minst 100.000 kr för juli, augusti respektive september 2021 pga covid-19, samt justeringar för perioderna maj och juni 2021:
+
+*  Ny Ordbehandlingsmall, ver 21, med ett nytt Uppdragsbrev, ett nytt Uttalande från företagsledningen och en ny Revisors rapport över faktiska iakttagelser, för respektive period
+*  Avsnittet "Andra revisorsuppdrag" i programmet: en ny checklista för granskning av ansökan om omställningsstöd, för respektive period
+*  Dessutom har ovanstående dokument och checklista för perioderna maj respektive juni 2021 uppdaterats med de justeringar som FAR och Skatteverket gjorde i början av juli. T ex har beloppsgränserna och antalet stickprov ändrats. 
+
+Läs mer om detta i nyhetsbrevet i länken nedan.
+
+OBS! 
+För er som även har vårt program Byrå, så gäller att denna version kräver den senaste versionen av Byrå, 2021.1, för att integrationen mellan Byrå och Revision skall fungera. 
+Om ni fortfarande har Byrå 2020.4.1 eller äldre, samt att era kundfiler i Byrå sparas på ett gemensamt nätverk, så måste ni först uppdatera Byrå till 2021.1, innan ni installerar Revision 2021.2.1 (eller förra versionen, 2021.2).
+
+(Vi kommer inte att lägga in stöd för Granskning av korttidsstöd, utan hänvisar i stället till FAR:s mallar för detta på deras hemsida, FAR.se, och FAR Online.)</Item>
+  </Group>
+  <Group Title="Version 2021.2 (2021-06-30)" Version="&lt;=2021.6">
+    <Item Title="Version 2021.2 går att ladda ner från hemsidan igen (2021-07-07)" Version="&gt;=2021.3" Type="Warning">Vi har nu hittat vad som gjorde att ett fåtal av er kunder fick problem med version 2021.2 av Revision när ni skulle öppna revisionsfilerna från Byrå. Det var att inte senaste versionen av Byrå var installerad.
+
+OBS! 
+Denna version kräver den senaste versionen av Byrå, 2021.1, för att integrationen mellan Byrå och Revision skall fungera. 
+Om ni fortfarande har Byrå 2020.4.1 eller äldre, samt att era kundfiler i Byrå sparas på ett gemensamt nätverk, så måste ni först uppdatera Byrå till 2021.1, innan ni installerar Revision 2021.2.</Item>
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20215/Nyheter Revision.pdf" Title="Nytt i version 2021.2" Version="&lt;=2021.6">OBS! Nya Omställningsstöd för perioden juli-september 2021 har föreslagits av Regeringen men beslut har ännu inte fattats, då det först måste godkännas av EU. En ny version av Revision kommer framöver, när Revisors rapport över faktiska iakttagelser samt checklistor är bestämda och klara från Skatteverket och FAR.
+
+Nytt i denna version är främst:
+*  Verklig huvudman: 6 nya fält har lagts till
+*  Bunden/fri överkursfond i Avsnittsindelningen BR för AB K2/K3
+*  Slutsats kompletterad med "samt väsentliga uppskattningar i redovisningen"
+*  Flera checklistor har uppdaterats
+*  Byrå: Utökad Byrå-koppling för Verklig huvudman
+
+Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.</Item>
+  </Group>
+  <Group Title="Version 2021.1.2 (2021-04-20) med stöd för ansökan omställningsstöd mar-apr &amp; maj-jun 2021 " Version="&lt;=2021.6">
+    <Item Link="https://www.far.se/aktuellt/nyheter/2021/maj/hemstallan-om-andring-avseende-koncerninterna-hyreskostnader/" Title="FAR:s hemställan om ändring avseende koncerninterna hyreskostnader" Version="&lt;=2021.6" Type="Error">FAR har uppmärksammats på att Skatteverket och domstolar inte betraktar fasta kostnader som debiterats internt inom en koncern som en fast kostnad som berättigar till stöd enligt lagen om omställningsstöd, om inte hyreskostnaden erlagts direkt till extern hyresvärd.
+
+FAR hemställer att lydelsen i 14 § p. 5 § i Förordning (2021:126) om omställningsstöd för augusti 2020 - april 2021 ändras. 
+
+Läs mer på FAR:s hemsida i länken nedan.</Item>
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20213/Nyheter Revision.pdf" Title="Version med stöd för granskning av ansökan omst.stöd mars-april 2021 och maj-juni 2021" Version="&lt;=2021.6">Nytt i denna version är stöd för granskning av ansökan om omställningsstöd på minst 100.000 kr för mars - april 2021 och maj - juni 2021 pga covid-19:
+
+*  Ny Ordbehandlingsmall, ver 20, med ett nytt Uppdragsbrev, ett nytt Uttalande från företagsledningen och en ny Revisors rapport över faktiska iakttagelser, för respektive period
+*  Avsnittet "Andra revisorsuppdrag" i programmet: en ny checklista för granskning av ansökan om omställningsstöd, för respektive period
+*  Dessutom har Revisors rapport över faktiska iakttagelser och Checklista för granskning av ansökan om omställningsstöd för perioden augusti 2020 - februari 2021 uppdaterats med de justeringar som FAR och Skatteverket gjorde i slutet av mars.
+
+Observera särskilt viktig information om mallar för stödperiod maj - juni 2021, samt två uppdaterade mallar för stödperiod augusti 2020 - februari 2021.
+
+Läs mer om detta i nyhetsbrevet i länken nedan.
+
+(Vi kommer inte att lägga in stöd för Granskning av korttidsstöd, utan hänvisar i stället till FAR:s mallar för detta på deras hemsida, FAR.se, och FAR Online.)</Item>
+  </Group>
+  <Group Title="Version 2021.1 (2021-02-24)" Version="&lt;=2021.6">
+    <Item Link="https://programleverans.wolterskluwer.se/programleverans/Revision/20211/Nyheter Revision.pdf" Title="Nytt i version 2021.1" Version="&lt;=2021.6">Nytt i denna version är främst:
+*  Förenklad Guide för val av mallar - med en sida i st f tre
+*  Ny Ordbehandlingsmall, ver 18, för omodifierade (och modifierade) revisionsberättelser, med uppdateringarna i RevR 700 och RevR 17 i enlighet med FAR N 2020:26 och 2020:34
+*  Sidan Uppdragsbedömning omgjord till checklista i st f ordbehandlingsmall
+*  Ändrad företagsbeskattning/skattesats 2021 (201231)
+
+Läs mer om detta och övriga nyheter i nyhetsbrevet i länken nedan.</Item>
+  </Group>
+  <Group Title="Allmänt">
+    <Item Title="Interaktiv startsida">Med vår interaktiva startsida har vi möjlighet att ge dig aktuell information om programmet. Under rubriken "Information".
+
+På högersidan finns en kalender för viktiga datum. Den listan kan du själv redigera genom att högerklicka i kalendern.</Item>
+  </Group>
+</Information>
