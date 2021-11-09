@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="2022.1" Version="2022.1">
-    <Item Link="D3000" Title="Ny dokumentmal: Konsulentavtale" Version="2021.2">Dokumentmalen brukes ved avtale mellom en oppdragsgiver og en selvstendig oppdragstaker (konsulenten).</Item>
-    <Item Link="D2008" Title="Ny dokumentmal: Risikovurdering - hvitvasking" Version="2021.2">Brukes til å vurdere og dokumentere risikoen for hvitvasking og terrorfinansiering blant dine kunder. Integrert i oppdragsavtalen.</Item>
-    <Item Link="A1900E" Title="Nytt dokument: Taushetserklæring for ansatte - engelsk versjon" Version="&lt;2021.2">Brukes overfor utenlandske arbeidstakere.</Item>
+  <Group Title="2022.1">
+    <Item Link="D3000" Title="Ny dokumentmal: Konsulentavtale">Dokumentmalen brukes ved avtale mellom en oppdragsgiver og en selvstendig oppdragstaker (konsulenten).</Item>
+    <Item Link="D2008" Title="Ny dokumentmal: Risikovurdering - hvitvasking">Brukes til å vurdere og dokumentere risikoen for hvitvasking og terrorfinansiering blant dine kunder. Integrert i oppdragsavtalen.</Item>
+    <Item Link="A1900E" Title="Nytt dokument: Taushetserklæring for ansatte - engelsk versjon">Brukes overfor utenlandske arbeidstakere.</Item>
   </Group>
 </Information>
