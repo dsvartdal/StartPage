@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Revision 2022.1 (internal version 2022.1)" Version="2022.1">
     <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3.pdf" Title="Text WITH read more (link) and version" Version="2021.X" Icon="Warning">Bla1 bla1 bla1</Item>
@@ -8,3 +8,4 @@
     <Item Title="Text WITHOUT (type information)æøåÆØÅ" Icon="Information">Bla5 bla5 bla5 æøåÆØÅ (commit/push via www: github.com)</Item>
   </Group>
 </Information>
+	
