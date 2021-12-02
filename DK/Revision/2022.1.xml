@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Revision 2022.1 (internal version 2022.1)" Version="2022.1">
     <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3.pdf" Title="Text WITH read more (link) and version" Version="2021.X" Icon="Warning">Bla1 bla1 bla1</Item>
-    <Item Title="Text WITHOUT (type error)æøåÆØÅ" Icon="Error">Bla2&#13;&#10;bla2&#13;&#10;bla2&#13;&#10;æøåÆØÅ (commit/push via: git kommandore!)</Item>
+    <Item Title="Text WITHOUT (type error)Ã¦Ã¸Ã¥Ã†Ã˜Ã…" Icon="Error">Bla2&#13;&#10;bla2&#13;&#10;bla2&#13;&#10;Ã¦ Ã¸ Ã¥ Ã† Ã˜ Ã… (commit/push via: git kommandore!)</Item>
     <Item Title="Text WITHOUT (type warning)" Icon="Information">Bla3 bla3 bla3</Item>
-    <Item Title="Text WITHOUT æøå ÆØÅ(type none)æøåÆØÅ" Icon="None">Bla4 bla4 bla4æøåÆØÅ (commit/push via program: GitHub Desktop)</Item>
-    <Item Title="Text WITHOUT (type information)æøåÆØÅ" Icon="Information">Bla5 bla5 bla5 æøåÆØÅ (commit/push via www: github.com)</Item>
+    <Item Title="Text WITHOUT (type none)" Icon="None">Bla4 bla4 bla4 (commit/push via program: GitHub Desktop)</Item>
+    <Item Title="Text WITHOUT (type information)" Icon="Information">Bla5 bla5 bla5 (commit/push via www: github.com)</Item>
   </Group>
 </Information>
 	
