@@ -5,7 +5,7 @@
     <Item Title="Text WITHOUT (type error)æøåÆØÅ" Icon="Error">Bla2&#13;&#10;bla2&#13;&#10;bla2&#13;&#10;æ ø å Æ Ø Å (commit/push via: git kommandore!)</Item>
     <Item Title="Text WITHOUT (type warning)" Icon="Information">Bla3 bla3 bla3</Item>
     <Item Title="Text WITHOUT (type none)Æ Ø Å æ ø å" Icon="None">Bla4 Ææ bla4 Øø bla4 Åå (commit/push via program: GitHub Desktop)</Item>
-    <Item Title="Text WITHOUT (type information)" Icon="Information">Bla5 bla5 bla5 (commit/push via www: github.com)</Item>
+    <Item Title="Text WITHOUT (type information) æ ø å Æ Ø Å" Icon="Information">Bla5 bla5 bla5 ÅøÆåØæ(commit/push via www: github.com)</Item>
   </Group>
 </Information>
 	
