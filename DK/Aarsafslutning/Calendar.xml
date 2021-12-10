@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Calendar>
-  <CalendarEntry Id="0" Title="Årsafslutning 2020.3 - FRA GITHUB2" Date="2020-07-06">Denne version af Årsafslutning giver mulighed for at skifte til root.dll, og herved frigøre sig fra Java. Det er blandt andet nødvendigt for dem der anvender Windows server 2019.&#10;&#10;Advarsel:&#10;En opdatering kan resultere i, at noterne i filen ændres, uanset om der anvendes Java eller ej. Da ændringen til root.dll er den eneste ændring i denne version af Årsafslutning, vil det ikke være nødvendigt at opdatere til version 2020.3 med mindre der er behov for at køre en version uden Java.</CalendarEntry>
-  <CalendarEntry Id="0" Title="Årsafslutning 2020.5 - FRA GITHUB2" Date="2021-02-10">Årsafslutning 2020.5 er tilgøngelig&#10;Indeholder blandt andet ny 2020 XBRL taksonomi samt ny note vedr. aktiver indregnet til dagsværdi.</CalendarEntry>
-  <CalendarEntry Id="0" Title="Årsafslutning 2021.1 - FRA GITHUB2" Date="2021-04-28">Årsafslutning 2021.1 tilgængelig&#13;&#10;Indeholder blandt andet forbedring af funktionen &apos;Opdater noteskabeloner&apos;, rettelse af fejl op noteoverskrifter i gruppe 1 - 9.</CalendarEntry>
+  <CalendarEntry Id="0" Title="Årsafslutning 2021.3" Date="2022-01-06">Release af Årsafslutning 2021.3&#10;&#10;Denne version af Årsafslutning indeholder bandt andet en 2021 XBRL Taksonomi</CalendarEntry>
 </Calendar>
