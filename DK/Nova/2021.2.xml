@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
   <Group Title="Skat Nova 2021.2">
-    <Item Title="Forskudsskat for 2022"
-    	  Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20212.pdf">Skat Nova 2021.2 er den første version af programmet, som kan benyttes til beregning af skat for indkomståret 2022.&#10;&#10;Se vejledningen for information om de øvrige ændringer i denne version af Skat Nova 2021.
-    </Item>
+    <Item Title="Rentesatser for 2021 (17.12.2021)" Version="2021.2" Icon="Information">Rentesatser for dag-til-dag rente og procenttillæg af restskat, samt til procentgodtgørelse på overskydende skat for indkomståret 2021 er netop blevet offentliggjort i SKM2021.679.SKTST. Vi har derfor opdateret de satser som benyttes i Skat Nova 2021. &#13;&#10;&#13;&#10;Du behøver ikke foretage dig noget - du har sikkert allerede fået de nye satser. Det kræver nemlig hverken en ny programversion eller en micro-opdatering at få rentesatserne opdateret. Skat Nova 2021.2 kan selv hente de opdaterede satser fra vores web-server. &#13;&#10;&#13;&#10;Vær dog opmærksom på at denne automatiske opdatering kræver internetadgang, samt at du har installeret Skat Nova 2021.2. &#13;&#10;&#13;&#10;Renten for dag-til-dag rente for indkomståret 2021 udgør 1,7 procent i henhold til kildeskatteloven § 59 stk. 1, 2. pkt. &#13;&#10;&#13;&#10;Renten for procenttillæg på restskat for indkomståret 2021 udgør 3,7 pct. I henhold til kildeskatteloven § 61 stk. 2, 2. pkt. &#13;&#10;&#13;&#10;Renten for procentgodtgørelse på overskydende skat for indkomståret 2021 udgør 0,0 procent i henhold til kildeskatteloven § 62 stk. 2, 2. pkt.</Item>
+    <Item Link="https://software2.wolterskluwer.dk/nova/dokumentation/SkatNovaVersion20212.pdf" Title="Forskudsskat for 2022" Icon="Information">Skat Nova 2021.2 er den første version af programmet, som kan benyttes til beregning af skat for indkomståret 2022.&#13;&#10;&#13;&#10;Se vejledningen for information om de øvrige ændringer i denne version af Skat Nova 2021.</Item>
   </Group>
 </Information>
