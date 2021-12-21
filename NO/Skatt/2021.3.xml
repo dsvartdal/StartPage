@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>  
+  <Group Title="Åpningstider i julen">
+    <Item Title="Julen 2021">Vår support er åpen 09.00-14.00 i romjulen. På julaften og nyttårsaften har vi stengt. Vi ønsker våre kunder en riktig god jul og et godt nytt år.</Item>
+  </Group>
+  <Group Title="Nyheter 2021.3">
+    <Item Title="Altinn">Skatt 2021.2 er klargjort for innsendelse av aksjonærregisteroppgave (RF-1086), grunnlagsdata for boligselskap (RF-1139), boligsameie (RF-1140), banker (RF-1183), barnehager og skolefritidsordninger (RF-1241) og rapportering land-for-land (RF-1352).  Aksjonærregisteroppgaven kan sendes inn allerede nå, men grunnlagsdata kan først sendes inn fra og med 2. januar.</Item>
+    <Item Title="Aksjonærregister">Det er en ny hendelsestype for Nyemisjon ansattaksjer i post 9 med tilhørende transaksjonstype i post 23. Det er en ny transaksjonstype i post 23 og post 25 for Skattepliktig utbytteaksje.</Item>
+    <Item Title="Kommende versjoner">Neste versjon av Skatt (2021.3) med oppdaterte skatteskjemaer etter Skattedirektoratets skjemarevisjon er planlagt til uke 3 i januar. Altinn åpner opp for innsendelse av RF-1028, RF-1215, RF-1245 og RF-1323 den 16. februar. Skatt 2021.4, med slik mulighet, vil foreligge senest 17. februar.</Item>
+  </Group>
+</Information>
