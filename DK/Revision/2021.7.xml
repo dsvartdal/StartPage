@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2021-08-10T08:09:49">
-	<Group Title="Revision 2022.1 (obs. still internal version 2021.7) - FRA GITHUB"
-	       Version="2021.7">
-		<Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.2A.pdf"
-		      Title="Text WITH read more (link) and version"
-		      Version="2021.X">Bla1 bla1 bla1
-		</Item>
-		<Item Title="Text WITHOUT (type error)"       Icon="Error">Bla2 bla2 bla2</Item>
-		<Item Title="Text WITHOUT (type warning)"     Icon="Warning">Bla3 bla3 bla3</Item>
-		<Item Title="Text WITHOUT (type none)"        Icon="None">Bla4 bla4 bla4</Item>
-		<Item Title="Text WITHOUT (type information)" Icon="Information">Bla5 bla5 bla5</Item>
-	</Group>
+<Information>
+  <Group Title="Revision 2022.1 (obs. still internal version 2021.7) - FRA GITHUB" Version="2021.7">
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.2A.pdf" Title="öÆØÅæøåÆØÅ Text WITH read more (link) and version" Version="2021.X" Icon="None">Bla1 bla1 bla1 xxxæøå</Item>
+    <Item Title="æøå Text WITHOUT (type error)" Icon="Error">ÆØÅ Bla2 bla2 bla2</Item>
+    <Item Title="Text WITHOUT (type warning)" Icon="Warning">Bla3 bla3 bla3</Item>
+    <Item Title="Text WITHOUT (type none)" Icon="None">Bla4 bla4 bla4</Item>
+    <Item Title="Text WITHOUT (type information)" Icon="Information">Bla5 bla5 bla5</Item>
+  </Group>
 </Information>
