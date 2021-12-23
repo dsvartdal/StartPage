@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2021-12-23T11:26:00">
+<Information LastUpdate="2021-12-23T11:43:04">
+  <Group Title="test gammel version" Version="&lt;=2021.7">
+    <Item Title="test vises gammel version" Version="&gt;=2021.7" Icon="Information">test vises gammel version ?</Item>
+  </Group>
   <Group Title="Revision 2022.1 (internal version 2022.1)" Version="2022.1">
-    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3.pdf" Title="Text WITH read more (link) and version æøåÆØÅöô HS" Version="2021.X" Icon="None">Bla1 bla1 bla1&#13;&#10;æøåÆØÅöÔ HS</Item>
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3.pdf" Title="Text WITH read more (link) and version æøåÆØÅöô HS" Version="2021.X" Icon="None">Bla1 bla1 bla1&#10;æøåÆØÅöÔ HS</Item>
     <Item Title="Text WITHOUT (type error)æøåÆØÅ" Icon="Error">Bla2&#10;bla2&#10;bla2&#10;æ ø å Æ Ø Å (commit/push via: git kommandore!)</Item>
     <Item Title="Text WITHOUT (type warning)" Icon="Warning">33333333 Bla3 bla3 bla3</Item>
     <Item Title="Text WITHOUT (type none)Æ Ø Å æ ø å" Icon="None">Bla4 Ææ bla4 Øø bla4 Åå (commit/push via program: GitHub Desktop)</Item>
