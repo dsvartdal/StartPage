@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2022-01-03T15:01:20">
+<Information LastUpdate="2022-01-03T14:59:40">
   <Group Title="Webinar">
     <Item Link="https://support.wolterskluwer.dk/support/revisionsprogram/revision#paragraph-1480" Title="Gamle tekstskabeloner ?" Icon="Information">Har du husket at opdatere dine tekstskabeloner i din årsrullede Revisionsfil?&#13;&#10;&#13;&#10;Ellers kan du finde en hurtig guide til det og meget mere via linket her:</Item>
     <Item Link="https://www.youtube.com/watch?v=qn2o0IfCblI" Title="&quot;Tips &amp; Tricks&quot; i Wolters KLuwer Revision" Icon="Information">Webinaret viser hvordan du bruger:&#13;&#10;&#13;&#10;- Standard tekster&#13;&#10;- Modifikationer / fremhævelser&#13;&#10;- Årsrul af en fil&#13;&#10;&#13;&#10;se det optagede webinar her:</Item>
   </Group>
   <Group Title="Revision 2021.3A" Version="2021.8">
     <Item Link="https://support.wolterskluwer.dk/support/revisionsprogram/revision#paragraph-1856" Title="Regnskabsmæssige skøn - brug for hjælp?" Icon="Information">Har du brug for hjælp til at håndtere regnskabsmæssige skøn, få find guiden og meget mere hjælp på Revisions FAQ :</Item>
-    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3A.pdf" Title="Revisor erklæringer opdateret" Version="2021.8" Icon="Information">Revisor erklæringer er opdateret.&#13;&#10;&#13;&#10;Grundlag for konklusion henviser til International Ethics Standards Board for Accountants internationale retningslinjer for revisorers etiske adfærd (IESBA Code).</Item>
+    <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.3A.pdf" Title="Revisor erklæringer opdateret" Version="2021.8" Icon="Information">Revisor erklæringer er opdateret i så Grundlag for konklusion henviser til International Ethics Standards Board for Accountants? internationale retningslinjer for revisorers etiske adfærd (IESBA Code).</Item>
   </Group>
 </Information>
