@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Information>
-  <Group Title="Årsafslutning 2021.3">
-    <Item Title="Nyheder til Årsafslutning 2021.3"
-    	  Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf">VIRKSOMHEDER&#10; - Ny XBRL taksonomi&#10; - Opdatering af erklæringer&#10; - Nye linjer i egenkapitalopgørelsen&#10; - Ny note 'Skattepligtig indkomst til regnskabsklasse A'&#10;&#10; INDKOMST- OG FORMUEOPGØRELSE&#10;  - Nye felter i kapitalafkastordningen vedr. forældrekøb&#10;  - Nye felter i virksomhedsskatteordningen vedr. forældrekøb&#10;  - Nye felter i regnskabsoplysninger vedr. I/S&#10;  - Nye værdipapirnoter med anskaffelsessum&#10;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2021.3.
-    </Item>
-  </Group>
-  <Group Title="Fejl i Årsafslutning 2021.3">
+   <Group Title="Fejl i Årsafslutning 2021.3">
     <Item Title="Fejl ved 'Test og validering før indsendelse'"
     	  Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf">Årsafslutning 2021.3 melder fejl når funktionen 'Test og validering før indsendelse' anvendes. &#10;Til validering af XBRL filen kan man istedet klikke på 'Indsend til erhvervsstyrelsen' og klikke ja til at validere filen inden indsendelse. Så vil XBRL filen blive valideret på samme vis som ved funktionen 'Test og validering før indsendelse'&#10;Får man ingen fejlbesked, men kommer direkte til indsendelsesvinduet. Så er XBRL filen valideret uden fejl, og indsendelsesvinduet kan lukkes.
+    </Item>
+  </Group>
+   <Group Title="Årsafslutning 2021.3">
+    <Item Title="Nyheder til Årsafslutning 2021.3"
+    	  Link="https://software2.wolterskluwer.dk/aarsafslutning/Dokumentation/VejledningAarsafslutning2021.3.pdf">VIRKSOMHEDER&#10; - Ny XBRL taksonomi&#10; - Opdatering af erklæringer&#10; - Nye linjer i egenkapitalopgørelsen&#10; - Ny note 'Skattepligtig indkomst til regnskabsklasse A'&#10;&#10; INDKOMST- OG FORMUEOPGØRELSE&#10;  - Nye felter i kapitalafkastordningen vedr. forældrekøb&#10;  - Nye felter i virksomhedsskatteordningen vedr. forældrekøb&#10;  - Nye felter i regnskabsoplysninger vedr. I/S&#10;  - Nye værdipapirnoter med anskaffelsessum&#10;&#10;Se vejledningen for detaljeret information om nyheder i Årsafslutning 2021.3.
     </Item>
   </Group>
 </Information>
