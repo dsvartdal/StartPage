@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Information LastUpdate="2022-01-17T15:01:29">
+<Information LastUpdate="2022-01-17T15:21:41">
   <Group Title=" Test Revisjon" Version="&gt;=2022.1">
-    <Item Title="Ha to filer åpne samtidig - FRA GITHUB NOR" Icon="None">Det er ofte slik at man trenger å gå inn i andre Revisjonsfiler for å se hva som er gjort/skrevet og eventuelt kopiere tekster. Det man da gjør er å åpne først den filen man skal jobbe med. Deretter dobbeltklikker man på kundefilen som man ønsker å kikke på. Det som er viktig er at man bruker forskjellige initialer når man logger seg på. For eksempel en bruker med initialene KS, kan da skrive KSO på den neste man åpner.</Item>
+    <Item Title="Ha to filer åpne samtidig - FRA GITHUB NOR" Version="2022.1" Icon="None">Det er ofte slik at man trenger å gå inn i andre Revisjonsfiler for å se hva som er gjort/skrevet og eventuelt kopiere tekster. Det man da gjør er å åpne først den filen man skal jobbe med. Deretter dobbeltklikker man på kundefilen som man ønsker å kikke på. Det som er viktig er at man bruker forskjellige initialer når man logger seg på. For eksempel en bruker med initialene KS, kan da skrive KSO på den neste man åpner.</Item>
     <Item Link="https://software.wolterskluwer.no/support/revisjon/pdf/20207/Ofte%20stilte%20sporsmal%20til%20Revisjon.pdf" Title="Ofte stilte spørsmål" Icon="None">Se nærmere i programmet under Hjelp-menyen eller på vår hjemmeside under brukerstøtte.</Item>
     <Item Link="https://support.wolterskluwer.no/brukerstotte/revisjonsprogram/revisjon#paragraph-568" Title="Eksempelfiler" Icon="None">Glassreparatøren er et fullstendig case som viser hvordan Revisjon kan brukes til dokumentasjon av et helt års revisjon for et mindre foretak. &#10;&#10;Det er også laget en eksempelfil for Holdingselskap med minimal revisjonsdokumentasjon.&#10;&#10;Eksempelfilene ligger på våre hjemmesider. Last de ned fra våre hjemmesider så du kan ha dem tilgjengelig!</Item>
   </Group>
-  <Group Title="Revision 2022.1 (obs. still internal version 2021.7) - FRA GITHUB NOR" Version="2021.7">
+  <Group Title="Revision 2022.1 (obs. still internal version 2021.7) - FRA GITHUB NOR" Version="2022.1">
     <Item Link="https://software2.wolterskluwer.dk/revision/Dokumentation/nyhederrevision - 2021.2A.pdf" Title="Text WITH read more (link) and version" Version="2021.X" Icon="None">Bla1 bla1 bla1</Item>
     <Item Title="Text WITHOUT (type error)" Icon="None">Bla2 bla2 bla2</Item>
     <Item Title="Text WITHOUT (type warning)" Icon="None">Bla3 bla3 bla3</Item>
