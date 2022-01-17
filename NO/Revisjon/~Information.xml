@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="iso-8859-1"?>
 <Information>
   <Group Title=" " Version="&gt;=2020.1">
     <Item Title="Ha to filer åpne samtidig - FRA GITHUB NOR">Det er ofte slik at man trenger å gå inn i andre Revisjonsfiler for å se hva som er gjort/skrevet og eventuelt kopiere tekster. Det man da gjør er å åpne først den filen man skal jobbe med. Deretter dobbeltklikker man på kundefilen som man ønsker å kikke på. Det som er viktig er at man bruker forskjellige initialer når man logger seg på. For eksempel en bruker med initialene KS, kan da skrive KSO på den neste man åpner.</Item>
@@ -10,4 +10,3 @@ Det er også laget en eksempelfil for Holdingselskap med minimal revisjonsdokumen
 Eksempelfilene ligger på våre hjemmesider. Last de ned fra våre hjemmesider så du kan ha dem tilgjengelig!</Item>
   </Group>
 </Information>
-
